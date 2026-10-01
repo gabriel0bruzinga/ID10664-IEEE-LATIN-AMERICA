@@ -1,0 +1,11 @@
+1) trafo_plano_eddy.aedt
+An Ansys HFSS project containing the 3D electromagnetic model of the planar transformer, used to analyse eddy current effects and winding losses.
+
+2) trafo_plano_termica.aedt
+An Ansys Icepak (or thermal) project containing the thermal model of the planar transformer, used to evaluate temperature distribution and heat dissipation under operating conditions.
+
+3) Conversor_Flyback_Planar_2.psimsch
+A PSIM schematic of the planar flyback converter, used to simulate the circuit's electrical behaviour, including switching waveforms and overall converter performance.
+
+4) Conversor_Flyback_Planar_3.txt
+A plain-text file containing supplementary data or parameters for the flyback converter simulation, such as component values, control settings, or exported simulation results.
